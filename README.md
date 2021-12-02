@@ -1,1 +1,1 @@
-# -JS-namu-darbas-2
+# JS-namu-darbas-2
